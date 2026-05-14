@@ -6,7 +6,7 @@ export const SITE_CONFIG = {
   description:
     "MTech CSE student at NITK Surathkal building trustworthy AI systems, secure architectures, and scalable intelligent applications.",
 
-  url: "https://your-domain.com",
+  url: "https://sarbasish-portfolio.vercel.app/",
 
   links: {
     github: "https://github.com/SarbasishChowdhury2002",
