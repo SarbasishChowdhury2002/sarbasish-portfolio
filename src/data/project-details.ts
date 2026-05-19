@@ -82,7 +82,7 @@ export const projectDetails = [
       "Developed a secure and scalable database platform capable of enforcing controlled access and improving data confidentiality.",
 
     image: "/projects/secure_query_db_cover.png",
-    github: "https://github.com/SarbasishChowdhury2002/secure-query-db",
+    github: "https://github.com/SarbasishChowdhury2002/secure_query_db",
     demo: "#",
 
   },
