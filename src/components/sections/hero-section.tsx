@@ -91,7 +91,7 @@ export function HeroSection() {
 
           <Magnetic>
           <a
-            href="#"
+            href="/resume/Sarbasish_Resume.pdf"
             download
           >
             <Button
